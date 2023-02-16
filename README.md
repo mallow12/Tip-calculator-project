@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://abdullah-tip-calculator.netlify.app/)
+- Live Site URL: [view the site live](https://abdullah-tip-calculator.netlify.app/)
 
 ## My process
 
@@ -94,7 +94,7 @@ percentage.forEach((percent) => {
 
 ### Continued development
 
-I want to keep focusing on improving my javascript skills and bulding more advanced projects. 
+I want to keep focusing on improving my javascript skills and bulding more advanced projects.
 
 ### Useful resources
 

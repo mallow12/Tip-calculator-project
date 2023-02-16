@@ -12,7 +12,6 @@ let expression = '';
 function isNumberKey(txt, evt) {
   var charCode = evt.which ? evt.which : evt.keyCode;
   if (charCode == 46) {
-    //Check if the text already contains the . character
     if (txt.value.indexOf('.') === -1) {
       return true;
     } else {
